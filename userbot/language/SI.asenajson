@@ -5,7 +5,7 @@
     "STRINGS": {
         "__plugin": {
             "REPLY_FOR_PORT": "`Please give a file for Plugin-Port`",
-            "DOWNLOADING": "`File is downloading...`",
+            "DOWNLOADING": "`ඔබගේ ගොනුව uplode කරමින් පවති..`",
             "UNIBORG": "`1. Type UniBorg found...`",
             "TOO_MANY_PLUGIN": "`There is more than one plugin in this file, I cannot port it!`",
             "UPLOADING": "`Port successful file is uploading...`",
@@ -41,7 +41,7 @@
         "admin": {
             "PP_TOO_SMOL": "```This image is too small, use a bigger one.```",
             "PP_ERROR": "```There was an error while processing the image.```",
-            "NO_ADMIN": "`I am not admin!`",
+            "NO_ADMIN": "`මම ඇඩ්මින් නොවේ!`",
             "NO_PERM": "`I don't have needed permissions!`",
             "NO_SQL": "`Working Non-SQL mode`",
             "CHAT_PP_CHANGED": "`Group image made changed`",
@@ -99,9 +99,9 @@
         },
         "afk": {
             "REASON": "Reason",
-            "AFK": "My owner AFK now.",
-            "IM_AFK": "I'm AFK now.",
-            "IM_NOT_AFK": "I'm not AFK anymore."
+            "AFK": "මගේ අයිතිකරු AFK",
+            "IM_AFK": "මම දැන් AFk",
+            "IM_NOT_AFK": "මම දැන් AFK නොවේ"
         },
         "auto": {
             "INVALID_TYPE": "Invalid type. Avaliable types: `isim` , `bio`",
@@ -170,8 +170,8 @@
         },
         "covid19": {
             "SOME_ERRORS": "`An error has occurred. `",
-            "DATA": "Coronavirus Data",
-            "EARTH": "World",
+            "DATA": "කෝරොනා virus දිනය",
+            "EARTH": "ලෝකය",
             "CASE": "🌎 Case:",
             "DEATH": "🌎 Death:",
             "HEAL": "🌎 Heal:",
