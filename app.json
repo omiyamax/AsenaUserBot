@@ -1,7 +1,7 @@
 {
   "name": "Anjana user bot",
   "description": "Anjana user bot",
-  "logo": "https://i.hizliresim.com/1UoYoT.jpg",
+  "logo": "https://camo.githubusercontent.com/77c7a9857ff8281f486f4b6932d631b2f705898f826fd870e734bfcc4dd0d9d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5576696e647542726f267468656d653d6461726b2673686f775f69636f6e733d74727565",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,8 +11,8 @@
     "productivity"
   ],
   "repository": "https://github.com/yusufusta/AsenaUserbot",
-  "website":   "https://yusufusta.net/",
-  "success_url": "https://t.me/AsenaSupport",
+  "website":   "https://omiyaofficial.ml",
+  "success_url": "https://t.me/AnjanaSupport",
   "stack": "container",
   "env": {
     "API_KEY": {
